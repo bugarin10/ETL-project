@@ -3,9 +3,9 @@
 
 # Introduction
 
-The purpose of the project is to implement the ETL methodology
+The purpose of this project is to implement the ETL methodology while merging different db in order to get a more complete DataBase
 
-We identified three databases regarding mexican population, crime and covid cases.
+For the aim of the project, we identified three databases regarding mexican population, crime rate and covid cases.
 
 
 
